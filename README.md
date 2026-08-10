@@ -17,7 +17,9 @@ Current stage:
 
 Time spent:
 
-**2 Days**
+**3 Days**
+
+Last Update: 10/08/2026
 
 ## 1. Mathematical Foundations
 
