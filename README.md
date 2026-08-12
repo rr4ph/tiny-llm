@@ -17,13 +17,14 @@ Current stage:
 
 Time spent:
 
-**3 Days**
+**5 Days**
 
-Last Update: 10/08/2026
+Last Update: 12/08/2026
 
 ## 1. Mathematical Foundations
 
 ### Algebra
+
 - [x] Basic arithmetic and algebraic manipulation
 - [x] Functions and function notation
 - [x] Exponents
@@ -32,6 +33,7 @@ Last Update: 10/08/2026
 - [ ] Basic polynomial manipulation
 
 ### Linear Algebra
+
 - [x] Scalars
 - [x] Vectors
 - [x] Vector operations
@@ -47,6 +49,7 @@ Last Update: 10/08/2026
 - [ ] Eigenvalues and eigenvectors
 
 ### Probability
+
 - [x] Sample spaces and events
 - [x] Basic probability
 - [x] Intersection
@@ -55,20 +58,21 @@ Last Update: 10/08/2026
 - [x] Multiplication rule
 - [x] Independent events
 - [x] Dependent events
-- [ ] Bayes' theorem
-- [ ] Random variables
+- [x] Bayes' theorem
+- [x] Random variables
 - [ ] Probability distributions
-- [ ] Expected value
-- [ ] Variance
-- [ ] Standard deviation
+- [x] Expected value
+- [x] Variance
+- [x] Standard deviation
 - [ ] Sampling
 
 ### Statistics
+
 - [ ] Mean, median, and mode
-- [ ] Variance and standard deviation
+- [x] Variance and standard deviation
 - [ ] Distributions
 - [ ] Normal distribution
-- [ ] Standard scores / z-scores
+- [x] Standard scores / z-scores
 - [ ] Correlation
 - [ ] Regression
 - [ ] Basic statistical inference
@@ -77,6 +81,7 @@ Last Update: 10/08/2026
 ## 2. Calculus
 
 ### Differential Calculus
+
 - [ ] Limits
 - [ ] Derivatives
 - [ ] Derivative rules
@@ -87,6 +92,7 @@ Last Update: 10/08/2026
 - [ ] Directional derivatives
 
 ### Optimization
+
 - [ ] Minima and maxima
 - [ ] Convexity intuition
 - [ ] Gradient descent
@@ -112,6 +118,7 @@ Last Update: 10/08/2026
 - [ ] Bias/variance tradeoff
 
 ### Classical ML
+
 - [ ] Linear regression
 - [ ] Logistic regression
 - [ ] k-nearest neighbors
@@ -137,6 +144,7 @@ Last Update: 10/08/2026
 - [ ] Understand what frameworks such as PyTorch automate
 
 ### Common Architectures
+
 - [ ] Fully connected networks
 - [ ] Convolutional neural networks
 - [ ] Recurrent neural networks
