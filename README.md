@@ -49,6 +49,7 @@ Last Update: 16/08/2026
 - [ ] Eigenvalues and eigenvectors
 
 ### Probability
+*FINISHED ON 16/08/2026*
 
 - [x] Sample spaces and events
 - [x] Basic probability
@@ -65,6 +66,7 @@ Last Update: 16/08/2026
 - [x] Variance
 - [x] Standard deviation
 - [x] Sampling
+
 
 ### Statistics
 
