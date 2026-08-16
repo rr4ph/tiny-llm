@@ -13,13 +13,13 @@ algorithms, and architecture well enough to explain what is happening under the 
 
 Current stage:
 
-**Mathematical Foundations → Probability**
+**Mathematical Foundations → Probability FINISHED**
 
 Time spent:
 
-**5 Days**
+**7 Days + 2 Days break**
 
-Last Update: 12/08/2026
+Last Update: 16/08/2026
 
 ## 1. Mathematical Foundations
 
@@ -60,11 +60,11 @@ Last Update: 12/08/2026
 - [x] Dependent events
 - [x] Bayes' theorem
 - [x] Random variables
-- [ ] Probability distributions
+- [x] Probability distributions
 - [x] Expected value
 - [x] Variance
 - [x] Standard deviation
-- [ ] Sampling
+- [x] Sampling
 
 ### Statistics
 
