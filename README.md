@@ -24,13 +24,14 @@ Last Update: 16/08/2026
 ## 1. Mathematical Foundations
 
 ### Algebra
+*FINISHED ON 17/08/2026*
 
 - [x] Basic arithmetic and algebraic manipulation
 - [x] Functions and function notation
 - [x] Exponents
 - [x] Logarithms
-- [ ] Equations and inequalities
-- [ ] Basic polynomial manipulation
+- [x] Equations and inequalities
+- [x] Basic polynomial manipulation
 
 ### Linear Algebra
 
@@ -40,10 +41,10 @@ Last Update: 16/08/2026
 - [x] Dot product
 - [x] Matrices
 - [x] Matrix-vector multiplication
-- [ ] Matrix-matrix multiplication
-- [ ] Linear transformations
-- [ ] Matrix transpose
-- [ ] Norms and vector magnitude
+- [x] Matrix-matrix multiplication
+- [x] Linear transformations
+- [x] Matrix transpose
+- [x] Norms and vector magnitude
 - [ ] Basis and dimensionality
 - [ ] Linear independence
 - [ ] Eigenvalues and eigenvectors
@@ -66,7 +67,6 @@ Last Update: 16/08/2026
 - [x] Variance
 - [x] Standard deviation
 - [x] Sampling
-
 
 ### Statistics
 
