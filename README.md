@@ -13,13 +13,13 @@ algorithms, and architecture well enough to explain what is happening under the 
 
 Current stage:
 
-**Mathematical Foundations → Probability FINISHED**
+**Mathematical Foundations → Statistics**
 
 Time spent:
 
-**7 Days + 2 Days break**
+**11 Days + 2 Days break**
 
-Last Update: 16/08/2026
+Last Update: 20/08/2026
 
 ## 1. Mathematical Foundations
 
@@ -34,6 +34,7 @@ Last Update: 16/08/2026
 - [x] Basic polynomial manipulation
 
 ### Linear Algebra
+*FINISHED ON 20/08/2026*
 
 - [x] Scalars
 - [x] Vectors
@@ -45,9 +46,9 @@ Last Update: 16/08/2026
 - [x] Linear transformations
 - [x] Matrix transpose
 - [x] Norms and vector magnitude
-- [ ] Basis and dimensionality
-- [ ] Linear independence
-- [ ] Eigenvalues and eigenvectors
+- [x] Basis and dimensionality
+- [x] Linear independence
+- [x] Eigenvalues and eigenvectors
 
 ### Probability
 *FINISHED ON 16/08/2026*
